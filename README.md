@@ -11,7 +11,7 @@
   ### Find me at:
   
 [![Linkedin Badge](https://img.shields.io/badge/-Suhani_Goel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhani-goel-b78679252/)](https://www.linkedin.com/in/suhani-goel-b78679252/)
-[![LeetCode Badge](https://img.shields.io/badge/-suhanigoel-orange?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/suhanigoel/)](https://www.linkedin.com/in/SuhaniGoel/)
+[![LeetCode Badge](https://img.shields.io/badge/-suhanigoel-orange?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/suhanigoel/)](https://leetcode.com/u/suhanigoel/)
 ### Favourable tools and frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
