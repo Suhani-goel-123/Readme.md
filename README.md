@@ -39,4 +39,4 @@
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhani-Goel-123&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 ### Github statistics
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhani-Goel-123&theme=dark" alt="Suhani-Goel-123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhani-Goel-123&theme=nightowl" alt="Suhani-Goel-123" /></p>
