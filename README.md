@@ -3,10 +3,14 @@
 <a><img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="300" ></a>
  ### ▶️About me:
 - 🔭 Pursuing B.Tech in information Technology, currently in my penultimate year.
-- 🌱 Tech enthusiast and avid learner. 
+  
+- 🌱 Tech enthusiast and avid learner.
+  
 - 🤖 Actively exploring domains of ML, cyber-security and Generative AI to
  advance my professional skills and satisfaction.
+
 - ✨ Interested in problem solving, DSA with CPP.
+  
 - 🎯 Regular participant of coding contests.
   ### Find me at:
   
@@ -34,3 +38,5 @@
 
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhani-Goel-123&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+### Github statistics
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhani-Goel-123&theme=dark" alt="Suhani-Goel-123" /></p>
